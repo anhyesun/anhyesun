@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [ThinkSmall](http://thinksmall.live) React Wepapp
 - 🌱 I’m currently taking [Web development course](https://www.codecademy.com/learn/paths/web-development) at Code Academy
 - 🤔 I’m looking for internship opportunity in summer 2021
-- 👯 I'm External Director in [WiCS](https://ubcwics.com/) at UBC 
+- 👯 I'm an External Director in [WiCS](https://ubcwics.com/) at UBC 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
 - 😄 Pronouns: She/Her
 - ⚡ Some facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA. I was a business strategist for 5 years
