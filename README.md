@@ -1,10 +1,11 @@
 ### Getting to know Hyesun 👋
 
 - 💬 I'm a Software Developer Intern at SAP Canada 
-- 🔭 I’m currently working on [ThinkSmall](http://thinksmall.live) React Wepapp
-- 🌱 I’m currently taking [Web development course](https://www.codecademy.com/learn/paths/web-development) at Code Academy
-- 🤔 I’m looking for internship opportunity in summer 2021
-- 👯 I'm an External Director in [WiCS](https://ubcwics.com/) at UBC 
+- 🔭 I’ve developed [ThinkSmall](http://thinksmall.live) WepApp and gave an presentation about it on [ReactVancouver Meetup](https://lnkd.in/gM5yx8f)
+- 🌱 I’m a Hackathon winner from [NWHacks2020](https://devpost.com/software/salesview) and [cmd-f2020](https://devpost.com/software/finance-hero) 
+- 🤔 I’m looking for an internship opportunity in summer 2021
+- 👯 I'm an External Director in [WiCS](https://ubcwics.com/) at UBC and a scholarship receiver for [GHC2020](https://www.gracehoppercelebration.com/)!
+- ✨ My expected graduation date is May 2022
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
 - 😄 Pronouns: She/Her
 - ⚡ Some facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA. I was an assiciate Project Manager for 5 years
