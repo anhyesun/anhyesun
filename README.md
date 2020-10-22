@@ -8,7 +8,8 @@
 - ✨ My expected graduation date is May 2022
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
 - 😄 Pronouns: She/Her
-- ⚡ Some facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA. I was an assiciate Project Manager for 5 years
+- ⚡ Some facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA (Business Administration). 
+I was an assiciate Project Manager for 5 years in Smilegate (Game company)
 
 <!--
 **anhyesun/anhyesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
