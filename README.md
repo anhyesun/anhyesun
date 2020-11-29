@@ -5,6 +5,7 @@
 - 🌱 I’m a Hackathon winner from [nwHacks 2020](https://devpost.com/software/salesview) , [cmd-f 2020](https://devpost.com/software/finance-hero), and [SAP iXP Hack4Good](https://devpost.com/software/gasshopper)
 - 🤔 I’m looking for an internship opportunity in Spring/Summer 2021
 - 👯 I'm an External Director in [WiCS](https://ubcwics.com/) at UBC and a scholarship receiver for [GHC2020](https://www.gracehoppercelebration.com/)!
+- 🙌 I'm a community organizer on [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver
 - ✨ My expected graduation date is May 2022
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
 - 😄 Pronouns: She/Her
