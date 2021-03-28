@@ -12,6 +12,7 @@
 - ⚡ Some facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA (Business Administration). 
 I was an assiciate Project Manager for 5 years in Smilegate (Game company)
 
+
 <!--
 **anhyesun/anhyesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Hyesun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyesun&hide=stars&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+
+![Hyesun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhyesun&layout=compact&hide_title=true)
 -->
