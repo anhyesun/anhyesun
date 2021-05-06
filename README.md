@@ -1,7 +1,7 @@
 ### Getting to know Hyesun 👋
 I am...
-- 💬 Software Engineer Intern at Citi, and formal Software Developer Intern at SAP Canada 
-- 💻 Recently developed [SnackTrack](https://snacktrack.herokuapp.com/) WebApp sponsored by Galvanize, [Interline Reader](https://interlinereader.herokuapp.com/) for Korean courses at UBC
+- 💬 Software Engineer Intern at [Citi](https://www.citigroup.com/canada/en/), and formal Software Developer Intern at [SAP](https://www.sap.com/canada/) 
+- 💻 Recently developed [SnackTrack](https://snacktrack.herokuapp.com/) WebApp sponsored by [Galvanize](https://www.wegalvanize.com/), [Interline Reader](https://interlinereader.herokuapp.com/) for Korean courses at UBC [Department of Asian Studies](https://asia.ubc.ca/)
 - 🤖 Also developed [ThinkSmall](http://thinksmall.live) WepApp and gave an presentation about it on [ReactVancouver Meetup](https://www.meetup.com/ReactJS-Vancouver-Meetup/events/272687845) streamed via [YouTube](https://youtu.be/3YqKQQiHZdM?t=581) 
 - 🌱 Hackathon winner from [nwhacks 2021](https://devpost.com/software/goodgredients) [nwHacks 2020](https://devpost.com/software/salesview) , [cmd-f 2020](https://devpost.com/software/finance-hero), and [SAP iXP Hack4Good](https://devpost.com/software/gasshopper)
 - 🤔 Looking for an internship opportunity in Fall/Winter 2021
