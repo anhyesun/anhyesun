@@ -1,16 +1,16 @@
 ### Getting to know Hyesun 👋
 I am...
-- 💬 Software Engineer Intern at [Citi](https://www.citigroup.com/canada/en/), and formal Software Developer Intern at [SAP](https://www.sap.com/canada/) 
-- 💻 Recently developed [SnackTrack](https://snacktrack.herokuapp.com/) In-office snack order WebApp sponsored by [Galvanize](https://www.wegalvanize.com/), Interlingual learning website [Interline Reader](https://interlinereader.herokuapp.com/) for UBC [Department of Asian Studies](https://asia.ubc.ca/)
-- 🤖 Also developed [ThinkSmall](http://thinksmall.live) WepApp and gave an presentation about it on [ReactVancouver Meetup](https://www.meetup.com/ReactJS-Vancouver-Meetup/events/272687845) streamed via [YouTube](https://youtu.be/3YqKQQiHZdM?t=581) 
-- 🌱 Hackathon winner from [nwhacks 2021](https://devpost.com/software/goodgredients) [nwHacks 2020](https://devpost.com/software/salesview) , [cmd-f 2020](https://devpost.com/software/finance-hero), and [SAP iXP Hack4Good](https://devpost.com/software/gasshopper)
-- 🤔 Looking for an internship opportunity in Fall/Winter 2021
-- 👯 External Director in [WiCS](https://ubcwics.com/) at UBC and a scholarship receiver for [GHC2020](https://www.gracehoppercelebration.com/)!
-- 🙌 Community organizer on [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver
-- ✨ Expected graduation date is May 2022
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA (Business Administration). 
+- 💬  Software Engineer Intern at [Citi](https://www.citigroup.com/canada/en/), and formal Software Developer Intern at [SAP](https://www.sap.com/canada/) 
+- 💻  Recently developed [SnackTrack](https://snacktrack.herokuapp.com/) In-office snack order WebApp sponsored by [Galvanize](https://www.wegalvanize.com/), Interlingual learning website [Interline Reader](https://interlinereader.herokuapp.com/) for UBC [Department of Asian Studies](https://asia.ubc.ca/)
+- 🤖  Also developed [ThinkSmall](http://thinksmall.live) WepApp and gave an presentation about it on [ReactVancouver Meetup](https://www.meetup.com/ReactJS-Vancouver-Meetup/events/272687845) streamed via [YouTube](https://youtu.be/3YqKQQiHZdM?t=581) 
+- 🌱  Hackathon winner from [nwhacks 2021](https://devpost.com/software/goodgredients), [nwHacks 2020](https://devpost.com/software/salesview) , [cmd-f 2020](https://devpost.com/software/finance-hero), and [SAP iXP Hack4Good](https://devpost.com/software/gasshopper)
+- 🤔  Looking for an internship opportunity in Fall/Winter 2021
+- 👯  External Director in [WiCS](https://ubcwics.com/) at UBC and a scholarship receiver for [GHC2020](https://www.gracehoppercelebration.com/)!
+- 🙌  Community organizer on [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver
+- ✨  Expected graduation date is May 2022
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/anhyesun/)
+- 😄  Pronouns: She/Her
+- ⚡  Fun facts: I have travelled 37 countries and 95 cities. My first degrees were BA major in Korean literature and BBA (Business Administration). 
 I was an assiciate Project Manager for 5 years in Smilegate (Game company)
 
 
