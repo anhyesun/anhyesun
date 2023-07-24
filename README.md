@@ -1,6 +1,7 @@
 ### Getting to know Hyesun 👋
 I am...
-- 💬  Former Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-ca), [Citi](https://www.citigroup.com/canada/en/), and [SAP](https://www.sap.com/canada/) 
+- ✨  Incoming Software Engineer at [Microsoft](https://www.microsoft.com/en-ca) and new grad from UBC
+- 💬  Ex-Software Engineer Intern at [Microsoft](https://www.microsoft.com/en-ca), [Citi](https://www.citigroup.com/canada/en/), and [SAP](https://www.sap.com/canada/) 
 - 💻  Developed [SnackTrack](https://snacktrack.herokuapp.com/) In-office snack order WebApp sponsored by [Galvanize](https://www.wegalvanize.com/), Interlingual learning website [Interline Reader](https://interlinereader.herokuapp.com/) for UBC [Department of Asian Studies](https://asia.ubc.ca/)
 - 🤖  Also developed [ThinkSmall](http://thinksmall.live) WepApp and gave an presentation about it on [ReactVancouver Meetup](https://www.meetup.com/ReactJS-Vancouver-Meetup/events/272687845) streamed via [YouTube](https://youtu.be/3YqKQQiHZdM?t=581) 
 - 🌱  Hackathon winner from [Hack4Health](https://event.hackhub.com/event/hack4health/submissions/5050), [nwhacks 2021](https://devpost.com/software/goodgredients), [nwHacks 2020](https://devpost.com/software/salesview) , [cmd-f 2020](https://devpost.com/software/finance-hero), and [SAP iXP Hack4Good](https://devpost.com/software/gasshopper)
